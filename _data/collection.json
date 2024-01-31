@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Open Humanities Symposium Annotated" ] },
+    "summary": { "en": [ "Co-creating value in open humanities scholarship symposium" ] },
+    "items": [
+    ]
+}
