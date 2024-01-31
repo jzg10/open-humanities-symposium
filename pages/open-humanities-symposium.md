@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Open Humanities Symposium
 manifest_name: open-humanities-symposium
 permalink: open-humanities-symposium
